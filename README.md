@@ -1,4 +1,4 @@
-# Chancla Events Organizations
+# PuroEvents
 
 This is a project meant to create an application to replace our use of Eventbrite and Meetup.com. We are looking for developers to help us build the idea up via feature requests and then help contribute code to this project.
 
